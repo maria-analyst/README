@@ -1,27 +1,30 @@
-# Hi, I'm Maria 👋
+# Maria | Backend Development (Web)
 
-🐍 Aspiring Python Developer / Data Analyst  
-📊 Learning Data Analytics, Python, Pandas, NumPy  
-💡 Interested in real-world projects and problem solving  
-
----
-
-## 🛠 Tech Stack
-- Python
-- Pandas, NumPy
-- Matplotlib
-- SQL (learning)
-- Git & GitHub
+## 🧩 Experience Modules 
+- [x] Backend Development – Flask, FastAPI, Spring (improving)  
+- [x] Frontend Development – HTML, CSS, React (learning)
+- [x] Data Analytics – SQL, Pandas, Data Cleaning (and more)
+- [x] UI/UX Design – Figma, Interface Design, User Experience  
 
 ---
 
-## 📂 Featured Projects
-🔹 Data Analysis Projects  
-🔹 Python Mini Projects
+## 🛠 Skills
+**Languages:** Python 🐍 | Java ☕ | JavaScript ✨  
+**Databases:** PostgreSQL, SQLite  
+**API & Tools:** REST APIs, Docker, Git, GitHub  
 
 ---
 
-## 📈 Currently Learning
-- Data analytics project structure
-- Clean Python code
-- Exploratory Data Analysis 
+## 🌱 Currently Learning
+- Advanced Java & JavaScript  
+- Full-stack Integration    
+
+---
+
+## 🚀 Career Goal
+Seeking my **first internship** to contribute, grow, and build amazing projects.  
+I love coding and solving problems - every day is an opportunity to learn!  
+
+📫 Email: marialadesigner@gmail.com  
+🌐 GitHub: [Maria-Backend](https://github.com/Maria-Backend)
+
